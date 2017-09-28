@@ -2,6 +2,8 @@
 
 A very fast **2D concave hull** algorithm in JavaScript (generates a general outline of a point set).
 
+More details: https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
+
 [![Build Status](https://travis-ci.org/mapbox/concaveman.svg?branch=master)](https://travis-ci.org/mapbox/concaveman)
 [![Coverage Status](https://coveralls.io/repos/github/mapbox/concaveman/badge.svg?branch=master)](https://coveralls.io/github/mapbox/concaveman?branch=master)
 [![](https://img.shields.io/badge/simply-awesome-brightgreen.svg)](https://github.com/mourner/projects)
